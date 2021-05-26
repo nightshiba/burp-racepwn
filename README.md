@@ -4,7 +4,7 @@
 Burp-Racepwn is a [Burp Suite](https://portswigger.net/burp) extension that integrates [RacePWN](https://github.com/racepwn/racepwn) framework to provide quick access for advanced race condition exploitation techniques.
 
 ## Warning
-Extensions is in active development as a semester project, work on its availability for users is still in a very early stage. Also, in connection with this, the functionality is significantly different from the real state.
+Extensions is in active development as a semester project, work on its availability for users is still in a very early stage. Also, in connection with this, functionality can significantly differ from the real state.
 
 ## Extension installing
 ### Build JAR
